@@ -26,7 +26,7 @@
     <a>
         <img src="btns/YouTube BTN.png" width=150>
     </a>
-    <a>
+    <a href="mailto:umitjan.novruzov06@gmail.com">
         <img src="btns/Gmail BTN.png" width=150>
     </a>
     <a>
