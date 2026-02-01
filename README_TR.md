@@ -11,7 +11,6 @@
     <a href="README_GR.md">
         <img src="btns/German btn.png" width=100 alt="GERMAN">
     </a>
-    
     <a href="README_CN.md">
         <img src="btns/CN btn.png" width=100 alt="CHINA">
     </a>
@@ -20,7 +19,7 @@
 <br><br>
 
 <p align="center">
-    <img src="texts/EN/About EN.png">
+    <img src="texts/TR/About TR.png">
 </p>
 
 <div align="center" width=100%>
@@ -43,5 +42,5 @@
 <br><br>
 
 <div align="center">
-    <img src="cards/Cards.png">
+    <img src="cards/Cards TR.png">
 </div>
