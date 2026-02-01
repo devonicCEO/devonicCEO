@@ -11,12 +11,12 @@
     <a href="README_GR.md">
         <img src="btns/German btn.png" width=100 alt="GERMAN">
     </a>
-    <a href="README_FA.md">
+    <!-- <a href="README_FA.md">
         <img src="btns/FA btn.png" width=100 alt="FARZ">
     </a>
     <a href="README_SA.md">
         <img src="btns/SA btn.png" width=100 alt="ARAP">
-    </a>
+    </a> -->
     <a href="README_CN.md">
         <img src="btns/CN btn.png" width=100 alt="CHINA">
     </a>
@@ -50,9 +50,3 @@
 <div align="center">
     <img src="cards/Cards.png">
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devonicCEO&show_icons=true&theme=radical&title_color=7c3aed&icon_color=a78bfa&text_color=ffffff&bg_color=1a103d&border_color=7c3aed" alt="devonicCEO GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devonicCEO&layout=compact&theme=radical&title_color=7c3aed&icon_color=a78bfa&text_color=ffffff&bg_color=1a103d&border_color=7c3aed" alt="devonicCEO Top Languages" height="180" />
-</p>
