@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="100%S">
     <a href="README.md">
         <img src="btns/EN btn.png" width=100 alt="English">
     </a>
@@ -30,19 +30,19 @@
 
 <div align="center">
     <a>
-        <img src="btns/YouTube BTN.png" width=80>
+        <img src="btns/YouTube BTN.png" width=100>
     </a>
     <a>
-        <img src="btns/Gmail BTN.png" width=80>
+        <img src="btns/Gmail BTN.png" width=100>
     </a>
     <a>
-        <img src="btns/TikTok BTN.png" width=80>
+        <img src="btns/TikTok BTN.png" width=100>
     </a>
     <a>
-        <img src="btns/Whatsapp BTN.png" width=80>
+        <img src="btns/Whatsapp BTN.png" width=100>
     </a>
     <a>
-        <img src="btns/TG BTN.png" width=80>
+        <img src="btns/TG BTN.png" width=100>
     </a>
 </div>
 <br><br>
