@@ -24,19 +24,19 @@
 
 <div align="center" width=100%>
     <a>
-        <img src="btns/YouTube BTN.png" width=100>
+        <img src="btns/YouTube BTN.png" width=200>
     </a>
     <a>
-        <img src="btns/Gmail BTN.png" width=100>
+        <img src="btns/Gmail BTN.png" width=200>
     </a>
     <a>
-        <img src="btns/Tiktok BTN.png" width=100>
+        <img src="btns/Tiktok BTN.png" width=200>
     </a>
     <a>
-        <img src="btns/Whatsapp BTN.png" width=100>
+        <img src="btns/Whatsapp BTN.png" width=200>
     </a>
     <a>
-        <img src="btns/TG BTN.png" width=100>
+        <img src="btns/TG BTN.png" width=200>
     </a>
 </div>
 <br><br>
