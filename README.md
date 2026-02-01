@@ -23,7 +23,7 @@
 </p>
 
 <div align="center" width=100%>
-    <a>
+    <a href="https://www.youtube.com/@devonicCEO">
         <img src="btns/YouTube BTN.png" width=150>
     </a>
     <a href="mailto:umitjan.novruzov06@gmail.com">
