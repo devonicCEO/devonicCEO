@@ -1,4 +1,4 @@
-<div align="center" width="100%S">
+<div align="center" width=100%>
     <a href="README.md">
         <img src="btns/EN btn.png" width=100 alt="English">
     </a>
@@ -28,7 +28,7 @@
     <img src="texts/EN/About EN.png">
 </p>
 
-<div align="center">
+<div align="center" width=100#>
     <a>
         <img src="btns/YouTube BTN.png" width=100>
     </a>

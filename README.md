@@ -1,4 +1,4 @@
-<div align="center" width="100%S">
+<div align="center" width=100%>
     <a href="README.md">
         <img src="btns/EN btn.png" width=100 alt="English">
     </a>
@@ -6,10 +6,10 @@
         <img src="btns/TR btn.png" width=100 alt="Turkish">
     </a>
     <a href="README_RU.md">
-        <img src="btns/Ru btn.png" width=100 alt="RUSSIAN">
+        <img src="btns/RU btn.png" width=100 alt="RUSSIAN">
     </a>
     <a href="README_GR.md">
-        <img src="btns/GERMAN btn.png" width=100 alt="GERMAN">
+        <img src="btns/German btn.png" width=100 alt="GERMAN">
     </a>
     <a href="README_FA.md">
         <img src="btns/FA btn.png" width=100 alt="FARZ">
@@ -28,7 +28,7 @@
     <img src="texts/EN/About EN.png">
 </p>
 
-<div align="center">
+<div align="center" width=100%>
     <a>
         <img src="btns/YouTube BTN.png" width=100>
     </a>
@@ -36,7 +36,7 @@
         <img src="btns/Gmail BTN.png" width=100>
     </a>
     <a>
-        <img src="btns/TikTok BTN.png" width=100>
+        <img src="btns/Tiktok BTN.png" width=100>
     </a>
     <a>
         <img src="btns/Whatsapp BTN.png" width=100>
