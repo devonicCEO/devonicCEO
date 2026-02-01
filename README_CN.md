@@ -32,10 +32,10 @@
     <a>
         <img src="btns/Tiktok BTN.png" width=150>
     </a>
-    <a href"https://wa.me/905052208655"> 
+    <a href="https://wa.me/905052208655"> 
         <img src="btns/Whatsapp BTN.png" width=150>
     </a>
-    <a>
+    <a href="https://t.me/DevonicCEO">
         <img src="btns/TG BTN.png" width=150>
     </a>
 </div>
