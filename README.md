@@ -42,3 +42,8 @@
         <img src="btns/TG BTN.png" width=80>
     </a>
 </div>
+<br><br>
+
+<div align="center">
+    <img src="cards/Cards.png">
+</div>
